@@ -6,9 +6,9 @@ public class Main {
 		// TODO Auto-generated method stub
 		java.util.Scanner s = new Scanner(System.in);
 		System.out.println("Hello World!!!\n");
-		System.out.print("ÀÌ¸§ ÀÔ·Â : ");
+		System.out.print("ì´ë¦„ : ");
 		String name = s.next();
-		System.out.println("["+name+"]´Ô È¯¿µÇÕ´Ï´Ù~");
+		System.out.println("["+name+"]ë‹˜ í™˜ì˜í•©ë‹ˆë‹¤.");
 		System.out.println("This is a comment about the second commit and push!");
 	}
 
